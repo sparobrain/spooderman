@@ -1,0 +1,16 @@
+{
+  "item.tutorialmod.zircon": "Zircon",
+  "item.tutorialmod.raw_zircon": "Raw Zircon",
+  "item.tutorialmod.amogus": "amogus",
+  "item.tutorialmod.blueberry": "Blueberry",
+  "item.tutorialmod.blueberry_seeds": "Blueberry Seeds",
+
+
+  "block.tutorialmod.zircon_block": "Block of Zircon",
+  "block.tutorialmod.zircon_ore": "Zircon Ore",
+  "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.tutorialmod.amogus_block": "amogus block",
+  "block.tutorialmod.blueberry_crop": "Blueberry Crop",
+
+  "itemGroup.no_a_sus_shit": "no a sus shit"
+}
